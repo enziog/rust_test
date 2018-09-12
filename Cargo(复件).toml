@@ -1,0 +1,8 @@
+[package]
+name = "rust_test"
+version = "0.1.0"
+authors = ["EnzioG"]
+
+[dependencies]
+actix-web = "^0.7"
+listenfd = "^0.3"
